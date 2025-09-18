@@ -27,7 +27,7 @@ A full-stack web application to manage employee records with role-based function
 ---
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React 
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL (MySQL Workbench for database management)  
 - **Tools:** VS Code, Postman (for testing APIs), Git/GitHub  
